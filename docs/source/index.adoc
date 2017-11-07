@@ -10,7 +10,7 @@ include::variables.adoc[]
 [[welcome-minishift]]
 == Welcome to {project} {minishift-version}!
 
-{project} is a tool that helps you run OpenShift locally by running a single-node OpenShift
+{project} is a tool that helps you run the OpenShift locally by running a single-node OpenShift
 cluster inside a VM.
 
 This documentation library contains the following sections to help you get started with, use, and
